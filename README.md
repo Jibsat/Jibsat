@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there 👋 I'm Abdulsatar Ajibola Ijaiya
 
-<!--
-**Jibsat/Jibsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a **Data and Market Analyst** with a strong foundation in using data to uncover insights, guide strategic decisions, and drive business growth.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏽‍💻 About Me
+- 🎓 Bachelor and Masters of Technology in **Entrepreneurship**
+- 📊 I specialize in **data analysis, market analysis, and data visualization**
+- 💼 I have 5+ years of experience across **business development, customer service logistics,** and **public sector enterprises**
+- 💡 I specialize in transforming raw data into actionable intelligence that informs marketing, operations, and business development strategies.
+
+---
+
+### 🛠️Key Tools
+- **Data Analysis**: Excel (Advanced) | Power BI |
+- **Visualization**: Excel | Power BI
+- **Other**: PowerPoint | Google Workspace | Google Sheets
+- **Currently learning**: SQL
+
+---
+
+### 🔎 Featured Projects
+Here are some of the projects i've worked on - More coming soon...
+
+---
+
+### 🤝 Let’s Connect
+Thank you for taking the time to explore my data portfolio. I'm always open to exciting opportunities where i can contribute to data-driven strategies and help solve real business challenges.
+
+---
+
+### 📫 Reach Me
+- 📧 Email: [officialjibsat@gmail.com](mailto:officialjibsat@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/abdulsatar-ijaiya-16a44418a](https://www.linkedin.com/in/abdulsatar-ijaiya-16a44418a)
