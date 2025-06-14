@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I’m a **Data and Market Analyst** with a strong 
 ### 🔎 Featured Projects
 Here are some of the projects i've worked on - More coming soon...
 
+https://github.com/Jibsat/2022-Movies-Report
+
 ---
 
 ### 🤝 Let’s Connect
