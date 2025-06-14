@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I’m a **Data and Market Analyst** with a strong 
 ### 👨🏽‍💻 About Me
 - 🎓 Bachelor and Masters of Technology in **Entrepreneurship**
 - 📊 I specialize in **data analysis, market analysis, and data visualization**
-- 💼 I have 5+ years of experience across **business development, customer service logistics,** and **public sector enterprises**
+- 💼 I have 5+ years of experience across **business development, customer service, logistics,** and **public sector enterprises**
 - 💡 I specialize in transforming raw data into actionable intelligence that informs marketing, operations, and business development strategies.
 
 ---
 
 ### 🛠️Key Tools
 - **Data Analysis**: Excel (Advanced) | Power BI |
-- **Visualization**: Excel | Power BI
-- **Other**: PowerPoint | Google Workspace | Google Sheets
+- **Visualization**: Excel | Power BI |
+- **Other**: PowerPoint | Google Workspace | Google Sheets |
 - **Currently learning**: SQL
 
 ---
